@@ -1,0 +1,1320 @@
+﻿INSERT INTO 
+	`lag`(`id`, `nafn`, `lengd`, `texti`, `flytjandi_id`, `hofundur_id`) 
+VALUES
+	(0001,"Thriller",3.22,"It's close to midnight and something evil's lurking
+    In the dark
+    Under the moonlight you see a sight that almost stops
+    Your heart
+    You try to scream, but terror takes the sound before
+    You make it
+    You start to freeze as horror looks you right between
+    The eyes
+    You're paralyzed
+    
+    'Cause this is thriller, thriller night
+    And no one's gonna save you from the beast about to
+    Strike
+    You know it's thriller, thriller night
+    You're fighting for your life inside a killer
+    Thriller tonight
+    
+    You hear the door slam and realize there's nowhere
+    Left to run
+    You feel the cold hand and wonder if you'll ever see
+    The sun
+    You close your eyes and hope that this is just
+    Imagination
+    But all the while you hear the creature creepin' up
+    Behind
+    You're out of time
+    
+    'Cause this is thriller, thriller night
+    There ain't no second chance against the thing with
+    Forty eyes
+    You know it's thriller, thriller night
+    You're fighting for your life inside a killer
+    Thriller tonight
+    
+    Night creatures call
+    And the dead start to walk in their masquerade
+    There's no escapin' the jaws of the alien this time
+    (They're open wide)
+    This is the end of your life
+    
+    They're out to get you; there's demons closing in on
+    Every side
+    They will possess you unless you change the number on
+    Your dial
+    Now is the time for you and I to cuddle close
+    Together
+    All through the night I'll save you from the terrors on
+    The screen
+    I'll make you see
+    
+    That it's a thriller, thriller night
+    'Cause I can thrill you more than any ghost
+    Would ever dare try
+    Girl, this is thriller, thriller night
+    So let me hold you tight and share a killer, diller
+    Chiller
+    Thriller here tonight
+    
+    That it's a thriller, thriller night
+    'Cause I can thrill you more than any ghost
+    Would ever dare try
+    Girl, this is thriller, thriller night
+    So let me hold you tight and share a killer, diller
+    
+    Darkness falls across the land
+    The midnight hour is close at hand
+    Creatures crawl in search of blood
+    To terrorize y'awl's neighborhood
+    And whosoever shall be found
+    Without the soul for getting down
+    Must stand and face the hounds of hell
+    And rot inside a corpse's shell
+    
+    The foulest stench is in the air
+    The funk of forty thousand years
+    And grizzly ghouls from every tomb
+    Are closing in to seal your doom
+    And though you fight to stay alive
+    Your body starts to shiver
+    For no mere mortal can resist
+    The evil of the thriller",04,004),
+    (0002,"Billie Jean",4.56,"She was more like a beauty queen from a movie scene
+    I said don't mind but what do you mean I am the one
+    Who will dance on the floor in the round
+    She said I am the one who will dance on the floor in the round
+    She told me her name was Billie Jean as she caused a scene
+    Then every head turned with eyes that dreamed of being the one
+    Who will dance on the floor in the round
+    People always told me be careful of what you do
+    And don't go around breaking young girls' hearts
+    And mother always told me be careful of who you love
+    And be careful of what you do 'cause the lie becomes the truth
+    Billie Jean is not my lover
+    She's just a girl who claims that I am the one
+    But the kid is not my son
+    She says I am the one but the kid is not my son
+    For forty days and forty nights
+    The law was on her side
+    But who can stand when she's in demand
+    Her schemes and plans
+    'Cause we danced on the floor in the round
+    So take my strong advice just remember to always think twice
+    Don't think twice don't think twice
+    She told my baby we'd danced till three then she looked at me
+    Then showed a photo my baby cried his eyes were like mine oh no!
+    'Cause we danced on the floor in the round baby
+    People always told me be careful of what you do
+    And don't go around breaking young girls' hearts
+    She came and stood right by me
+    Just the smell of sweet perfume
+    This happened much too soon
+    She called me to her room
+    Billie Jean is not my lover
+    She's just a girl who claims that I am the one
+    But the kid is not my son
+    Billie Jean is not my lover
+    She's just a girl who claims that I am the one
+    But the kid is not my son
+    She says I am the one but the kid is not my son
+    She says I am the one but the kid is not my son
+    Billie Jean is not my lover
+    She's just a girl who claims that I am the one
+    But the kid is not my son
+    She says I am the one but the kid is not my son
+    She says I am the one
+    You know what you did she says he is my sonbreaking my heart babe
+    She says I am the one
+    Billie Jean is not my lover
+    Billie Jean is not my lover
+    Billie Jean is not my lover
+    Billie Jean is not my lover don't Billie Jean
+    Billie Jean is not my lover
+    Billie Jean is not my lover",04,004),
+(0003,"Smooth Criminal",9.26,"As he came into the window
+    It was the sound of a crescendo
+    He came into her apartment
+    He left the bloodstains on the carpet
+    She ran underneath the table
+    He could see she was unable
+    So she ran into the bedroom
+    She was struck down it was her doom
+    
+    Annie are you ok?
+    So Annie are you ok
+    Are you ok Annie
+    Annie are you ok?
+    So Annie are you ok
+    Are you ok Annie
+    Annie are you ok?
+    So Annie are you ok?
+    Are you ok Annie?
+    Annie are you ok?
+    So Annie are you ok are you ok Annie?
+    
+    Annie are you ok?
+    So Annie are you ok?
+    Are you ok Annie?
+    Annie are you ok?
+    So Annie are you ok?
+    Are you ok Annie?
+    Ann are you ok?
+    So, Annie are you ok?
+    Are you ok, Annie?
+    You've been hit by
+    You've been hit by
+    A smooth criminal
+    
+    So they came into the outway
+    It was Sunday - what a black day
+    Mouth to mouth
+    Resuscitation
+    Sounding heartbeats - intimidation
+    
+    Annie, are you ok?
+    So, Annie are you ok
+    Are you ok, Annie
+    Annie, are you ok?
+    So, Annie are you ok
+    Are you ok, Annie
+    Annie, are you ok?
+    So, Annie are you ok?
+    Are you ok, Annie?
+    Annie, are you ok?
+    So, Annie are you ok, are you ok Annie?
+    
+    Then you
+    Ran into the bedroom
+    You were struck down
+    It was your doom
+    
+ You've been struck by
+    A smooth criminal
+    
+    Okay, I want everybody to clear
+    The area right now!
+    
+    Aaow!
+    Annie are you ok?
+    I don't know!
+    Will you tell us that you're ok?
+    I don't know!
+    There's a sign in the window
+    I don't know!
+   That he struck you - a crescendo Annie
+    I don't know!
+    He came into your apartment
+    I don't know!
+    Left the bloodstains on the carpet
+    I don't know why baby!
+    Then you ran into the bedroom
+    I don't know
+    You were struck down
+    It was your doom - Annie!
+    
+    Dag gone it - baby!
+    Will you tell us that you're ok?
+    Dag gone it - baby!
+    There's a sign in the window
+    Dag gone it - baby!
+    That he struck you - a crescendo Annie
+    Hoo! Hoo!
+    He came into your apartment
+    Dag gone it!
+    Left the bloodstains on the carpet
+    Hoo! Hoo! Hoo!
+    Then you ran into the bedroom
+    Dag gone it!
+    
+    Aaow!!!",04,004),
+    (0004,"man in the mirror",5.04,"I’m gonna make a change, for once in my life
+    It’s gonna feel real good, gonna make a difference
+    Gonna make it right...
+    
+    As I turn up the collar on my favorite winter coat
+    This wind is blowin’ my mind
+    I see the kids in the street, with not enough to eat
+    Who am I, to be blind? Pretending not to see their needs
+    A summer’s disregard, a broken bottle top
+    And a one man’s soul
+    They follow each other on the wind ya’ know
+    ’Cause they got nowhere to go
+    That’s why I want you to know
+    
+    I’m starting with the man in the mirror
+    I’m asking him to change his ways
+    And no message could have been any clearer
+    If you wanna make the world a better place
+    (If you wanna make the world a better place)
+    Take a look at yourself, and then make a change
+    (Take a look at yourself, and then make a change)
+    (Na na na, na na na, na na, na nah)
+    
+    I’ve been a victim of a selfish kind of love
+    It’s time that I realize
+    That there are some with no home, not a nickel
+    to loan
+    Could it be really me, pretending that they’re
+    not alone?
+    
+    A willow deeply scarred, somebody’s broken heart
+    And a washed-out dream
+    (Washed-out dream)
+    They follow the pattern on the wind, ya’ see
+    ’Cause they got no place to be
+    That’s why I’m starting with me
+    (Starting with me!)
+    
+    I’m starting with the man in the mirror
+    (Ooh!)
+    I’m asking him to change his ways
+    (Ooh!)
+    And no message could have been any clearer
+    If you wanna make the world a better place
+    (If you wanna make the world a better place)
+    Take a look at yourself and then make a change
+    (Take a look at yourself and then make a change)
+    
+    I’m starting with the man in the mirror
+    (Ooh!)
+    I’m asking him to change his ways
+    (Change his ways - ooh!)
+    And no message could have been any clearer
+    If you wanna make the world a better place
+    (If you wanna make the world a better place)
+    Take a look at yourself and then make that...
+    (Take a look at yourself and then make that...)
+    Change!
+    
+    I’m starting with the man in the mirror
+    (Man in the mirror - Oh yeah!)
+    I’m asking him to change his ways
+    (Better change!)
+    No message could have been any clearer
+    (If you wanna make the world a better place)
+    (Take a look at yourself and then make the change)
+    (You gotta get it right, while you got the time)
+    (’Cause when you close your heart)
+    You can’t close your...your mind!
+    (Then you close your...mind!)
+    That man, that man, that man, that man
+    With that man in the mirror
+    (Man in the mirror, oh yeah!)
+    That man, that man, that man
+    I’m asking him to change his ways
+    (Better change!)
+    You know...that man
+    No message could have been any clearer
+    If you wanna make the world a better place
+    (If you wanna make the world a better place)
+    Take a look at yourself and then make a change
+    (Take a look at yourself and then make a change)
+    Hoo! Hoo! Hoo! Hoo! Hoo!
+    Na na na, na na na, na na, na nah
+    (Oh yeah!)
+    Gonna feel real good now!
+    Yeah yeah! Yeah yeah! Yeah yeah!
+    Na na na, na na na, na na, na nah
+    (Ooooh...)
+    Oh no, no no...
+    I’m gonna make a change
+    It’s gonna feel real good! Come on!
+    (Change...)
+    Just lift yourself
+    You know
+    You’ve gotta stop it. Yourself!
+    (Yeah! - Make that change!)
+    I’ve got to make that change, today!
+    Hoo!
+    (Man in the mirror)
+    You got to
+    You got to not let yourself... brother...
+    Hoo!
+    (Yeah! - Make that change)
+    You know - I’ve got to get that man, that man...
+    (Man in the mirror)
+    You’ve got to
+    You’ve got to move! Come on! Come on!
+    You got to...
+    Stand up! Stand up! Stand up!
+    (Yeah! - Make that change)
+    Stand up and lift yourself, now!
+    (Man in the mirror)
+    Hoo! Hoo! Hoo!
+    Aaow!
+    (Yeah! - Make that change)
+    Gonna make that change...come on!
+    You know it!
+    You know it!
+    You know it!
+    You know... 
+    (Change...)
+    Make that change.",04,004),
+	
+	(0005,"Fullir vasar",5.03, "Fullir vasar og hringi hringi ring í ring ring sama þótt ég sé ekki fokking þinn þinn en ég nota þetta venjulega tinger að í og fullir fullir vasar
+	FULLIR vasar
+	hringi hringi ring í ring ring sama þótt ég sé ekki fokking þinn þinn en ég nota þetta venjulega tinger að í og fullir fullir fullirEkki að ljúga þér, ó nei.
+	Er að segja satt og er að vona að þú sért eins.
+	Ætlaði að taka yfir og ég gerpi það um leið og með þig og með lið en ég gerði þetta einn.
+	Tíminn tik-tak á mér en ó síminn hringir og ég hætti að svara eftir klukkan tólf, Já ég meina þetta ring-ring vinna miðju nótt vinna fyrir þessa hluti sem að gerast allt of fljótt.
+	Ég með allt of mikið af því góða þú ert alltof góð, ég fer út með henni bara við ekkert fólk.
+	Hugsa mig ég í dundi fullir vasar er það gold, og ég þarf ekki meira nema þig ég með nóg.
+	Ég með allt sem ég þarf þarf þarf
+	Ég með meira en það, og er fastur inni herbergi ekki fram fram fram.
+	Og ég geri bara mitt og tónsi þar þar þar ekki chilla bara vinna fullir vasar marr.
+	Fullir vasar og hringi hringi ring í ring ring sama þótt ég sé ekki fokking þinn þinn en mig nota þetta venjulega tinger að í og fullir fullir fullir.
+	Ekki ljúga mér
+	ó nei
+	Já þú þarft ekki að segja mér allt sem þu veist.
+	Ef þú spyrð mig hefuru ekki allt of mikið breyst.
+	Nema allt mun meira og ég fer seinna heim.
+	Ekki hring í mig en þá mun ég gera þetta fyrir mig og engin annar fara fá, já ég meina þetta liðnar allt of mikið vá nenni ekki að tala á móti því að hugsa bara langt, já ég finn fyrir hinu og þessu baby, ég meina er að finna fyrir shitti sem er verið að reyna gleyma.
+	Tala ekki mikið við þig en ég hitti af þig eina og baby veit þú geri bara þig án þess að reyna
+	Varst í gær með allt allt allt sama hvað
+	Engin fokking eins of ég.
+	ég can can can.
+	Hratt af stað, klukkan margt.
+	Fullir fullir fullir vasar marr.
+	hringi hringi ring í ring ring sama þótt ég sé ekki fokking þinn þinn en mig nota þetta venjulega tinger að í og fullir fullir fullir
+	FULLIR vasar
+	hringi hringi ring í ring ring sama þótt ég sé ekki fokking þinn þinn en ég nota þetta venjulega tinger að í og fullir fullir fullir
+	",05,003).
+	(0006,"daglega",2.33,"Daglega...
+Ætla að fokking sigra, sigra daglega,
+Hún fór upp í rúm í gær og thinkin' mun ríða.
+Ég meina vel og reykji meir' af þessu daglega,
+kann ekki að' fara varlega,
+þig langar þetta að heyra.
+Segji hluti sem ég motha'fokking meina,
+svara henni stundum seinna,
+hef stundum ekkert að segja,
+baby, koddu til mín seinna,
+þú veist ég mun þér aldrei gleyma...
+Og ég meina þetta daglega,
+Ég ætla að fokking sigra, sigra daglega,
+Hún fór upp í rúm í gær og thinkin' mun ríða.
+Ég meina vel og reykji meir' af þessu daglega,
+kann ekki að' fara varlega,
+þig langar þetta að heyra.
+Segji hluti sem ég motha'fokking meina,
+svara henni stundum seinna,
+hef stundum ekkert að segja,
+baby, koddu til mín seinna,
+þú veist ég mun þér aldrei gleyma...
+ 
+Eitt stk. tvö skot motha'fokka
+Mér líða' tequila til nóttina' okkar,
+skórnir okkar, píkubotnar,
+Jóni tottað, góður,
+oftast lítill en er að þroskast,
+Mér finn' splæst í Calvin klædda,
+alltaf gaman, upp á toppi dala,
+með tíur í eyra og tíur talda,
+Vilja mig ljónur' í sund,
+heppinn ef þú færð einn séns,
+meik' ekki að vera svo tense
+Back up, back up með Budhi,
+fokka' þér,
+geri bara, mér finnst ekki shit,
+allt of farinn og,
+Þú þekkir strákinn...
+(Veit þú þekkir hann)",05,003),
+	(0007,"Rúllupp",5.12,"Já ég rúll'upp með þig uppí hausnum jájájá
+međ augun bara'á fokin þér, því mig langar bara þig ađ sjá, og ég púllup međ liđ fyrir mig ungan strák sem ađ lá, á
+Hef ekki áđur veriđ međ, langar ađ vera međ þér jajá
+
+Já eg rúll'upp með þig uppí hausnum jájájá
+međ augun bara'á fokin þér því mig langar bara þig ađ sjá, og ég púllup med liđ fyrir mig ungan strák sem ađ lá, á
+Hef ekki áđur veriđ međ, langar ađ vera međ þér jajá
+fullur af shitti jájájá
+býđ þeim őllum međ en langar bara þig ađ fá
+og ég hata hvernig hún hagar sér őđruvísi í kringum þá
+eđa er það bara ég? veit ekki hvað er rétt og rangt
+en ég sýni hvađ ég get, veit ađ þú vil líka koma međ, okkar sh??
+sjáđu hvar ég enda baby, fylgstu međ þekkir strákinn þekkir best, hatar illa, elskar vel, geri mig svo fokin vel
+en
+ég gleymi ađ fokin gleyma þér
+ég gleymi ađ fokin gleyma þér
+Já eg rúll'upp með þig uppí hausnum jájájá
+međ augun bar'á fokin þér því mig langar bara þig ađ sjá, og ég púllup med liđ fyrir mig ungan strák sem ađ lá, á
+Hef ekki áđur veriđ međ, langar ađ vera međ þér jajá
+Já eg rúll'upp með þig uppí hausnum jájájá
+međ augun bar'á fokin þér því mig langar bara þig að sjá, og ég púllup med liđ fyrir mig ungan strák sem ađ lá á
+Hef ekki áđur veriđ međ, langar ađ vera međ þér jajá
+ađeins meira, er ađ meina
+fer á utan þeim og flexa, rúlla upp þú ekki hérna já þú veist hvađ ég stefn'á fer mína leiđ og ekki tefja,
+verđ alltaf hérna og ég ætla mér ađ sigra allt og alla?? og ég meina,
+mig langar engu ađ breyta, langar meira,
+veit ég segi þetta miklu fokin seinna en þig langar þetta ađ heyra
+meina, langar engu ađ breyta, langar meira, veit ég segi þetta miklu fokin seinna en þig langar þetta ađ heyra
+Já eg rúll'upp með þig uppí hausnum jájájá
+međ augun bar'á fokin þér því mig langar bara þig að sjá, og ég púllup med liđ fyrir mig ungan strák sem ađ lá á
+Hef ekki áđur veriđ međ, langar ađ vera međ þér jajá
+Já eg rúll'upp með þig uppí hausnum jájájá
+međ augun bar'á fokin þér því mig langar bara þig að sjá, og ég púllup med liđ fyrir mig ungan strák sem ađ lá á
+Hef ekki áđur veriđ međ, langar ađ vera međ þér jajá
+",05,003),
+	(0008,"Þekkir Stráginn",2.25,"Aaaay,Ay..
+
+Það er er eitthvað sem ég sé við þig
+Ekki væmið,Þekkir stráginn
+Það er eitthvað sem þú gerir við mig og
+Ég er ekk'alveg að ná því.. x4
+
+
+Með tíu tíkur heim í nótt
+Get ekki sagt ég hafi sofið rótt
+Með gluggan opinn,Jónuglóð
+Frekar slæmar en ég sýni love
+Dæmi ekki en hún elskar dóp
+Ekki dæma en ég elska dóp
+Með þig upp að öllu baby
+Hugs'ekki um annað lately,yeah
+Frekar góður en í slæmu skapi
+Horfi bakvið,og þú ert þar
+Mig langar burt að fara
+Frekar slæmur,Bara daðra
+Ekki meinandi að ég hafi þig með
+Ég vill hafa þig hér,en á sama tíma bara með sjálfum mér
+En á sama tíma bara með sjálfum mér
+
+Það er er eitthvað sem ég sé við þig
+Ekki væmið,Þekkir stráginn
+Það er eitthvað sem þú gerir við mig og
+Ég er ekk'alveg að ná því x4",05,003),
+(0009,"Congratulations",3.47,"My mama called seen you on TV son Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations Worked so hard forgot how to vacation They ain't never had the dedication People hatin' say we changed and look we made it Yeah we made it They was never friendly yeah Now I'm jumping out the Bentley yeah And I know I sound dramatic yeah But I know I had to have it yeah For the money I'm a savage yeah I be itching like a addict yeah I'm surrounded 20 bad bitches yeah But they didn't know me last year yeah Everyone wanna act like they important (Yeah-yeah-yeah yeah-yeah-yeah) But all that mean nothing when I saw my dough (Yeah-yeah-yeah yeah-yeah-yeah) Everyone counting on me drop the ball (Yeah-yeah-yeah yeah-yeah-yeah) Everything custom like I'm at the border yeah yeah If you fuck with winning put your lighters to the sky How could I make sense when I got millions on my mind? Coming with that bullshit I just put it to the side Balling since a baby they could see it in my eyes My mama called seen you on TV son Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations Worked so hard forgot how to vacation They ain't never had the dedication People hatin' say we changed and look we made it Yeah we made it I was patient yeah-oh I was patient ay-oh Now I can scream that we made it Now everyone everywhere I go they say 'gratulations Young nigga young nigga graduation I pick up the rock and I ball baby I'm looking for someone to call baby But right now I got a situation Nothing but old Ben-Ben Franklins Big rings champagne My life is like a ball game But instead I'm in the trap though Pot so big call it Super Bowl Super Bowl call the hoes get in the Rolls Top floor lifestyle Huncho and Post Malone I got a play on my phone ay You know what I'm on ay Huncho Houdini is gone ay My mama called seen you on TV son Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations Worked so hard forgot how to vacation They ain't never had the dedication People hatin' say we changed and look we made it Yeah we made it",01,001), 
+(0010,"white iverson",4.44,"Saucin' saucin' I'm saucin' on you I'm swaggin' I'm swaggin' I'm swaggin' oh ooh I'm ballin' I'm ballin' Iverson on you Watch out watch out watch out yeah That's my shot that's my shot that's my shot yeah Spendin' I'm spendin' all my fuckin' pay I got me some braids and I got me some hoes Started rockin' the sleeve I can't ball with no Joes You know how I do it Concords on my toes (This shit is hard) I ain't rich yet but you know I ain't broke I So if I see it I like it buy that from the store I I'm with some white girls and they lovin' the coca Like they're OT Double OT like I'm KD smokin' OG And you know me in my 2-3s and my gold teeth Bitch I'm smiling bet you see me from the nosebleeds I'm the new 3 and I change out to my new 3s White Iverson When I started ballin' I was young You gon' think about me when I'm gone I need that money like the ring I never won I won Saucin' saucin' I'm saucin' on you I'm swaggin' I'm swaggin' I'm swaggin' oh ooh I'm ballin' I'm ballin' Iverson on you Watch out watch out watch out yeah That's my shot that's my shot that's my shot yeah Spendin' I'm spendin' all my fuckin' pay Ooh Stoney Cigarettes and a headband Commas commas in my head man Slumped over like a dead man Red and black 'bout my bread man I'm the answer never question Lace up learn a lesson Bitch I'm saucin' I do this often don't do no talkin' My options right when I walk in jump all them Jordans I'm ballin' money jumpin' Like I'm Davis from New Orleans Or bitch I'm Harden I don't miss nothin' Fuck practice this shit just happens know y'all can't stand it I have it I never pass it I work my magic High average ball on these bastards it makes me happy It's tragic I make it happen and all y'all Shaqtin' White Iverson When I started ballin' I was young You gon' think about me when I'm gone I need that money like the ring I never won I won Saucin' saucin' I'm saucin' on you I'm swaggin' I'm swaggin' I'm swaggin' oh ooh I'm ballin' I'm ballin' Iverson on you Watch out watch out watch out yeah That's my shot that's my shot that's my shot yeah Spendin' I'm spendin' all my fuckin' pay",01,001),
+(0011,"too young",3.58,"I don't wanna die too young Yeah too young yeah too young... I don't wanna die too young too young too young Counting bands hallelujah 'lujah 'lujah I don't wanna die too young too young too young I've been grindin' way too long too long too long Came up don't know I just keep going with the flow I just wanna go and cop me somethin' I hit Fairfax go shoppin' though She just wanna hit that bathingroom hold that guap like a register Keep on winning need that guap though Like I'm cash out eat at papadeauxs Flowing on to the Galapagos running and grab the dough Man this shit never minimal feel like an animal Yeah bitch I try to keep me cool your life never going never going back Yeah I don't wanna die too young I don't wanna die too young When I get that cash it's hallelujah Aye hallelujah aye hallelujah aye hallelujah I don't wanna die too young too young too young Counting bands hallelujah 'lujah 'lujah I don't wanna die too young too young too young I've been grindin' way too long too long too long My whip fast my bitch bad I skrrr skrrr that coupe fast My coupe fast your bitch know My bitch slow she do what I say so and she always keep me on my toes Poppin' that woe man I be gone Just watch me go bitches they watching me go Walking around aye I pick that band up then I go drop that shit off Pull up in a Porsche shit poppin' off Pop that shit off I got that bitch off I tell her to knock that shit off And I got my nut off and she washed my nuts off I want that shit I got that shit pop that shit Got rich quick suck my... You know it make me God damn numb When I see 'em die so God damn young (I don't wanna die) I don't wanna die too young too young too young Counting bands hallelujah 'lujah 'lujah I don't wanna die too young too young too young I've been grindin' way too long too long too long I don't wanna die too young too young too young Counting bands hallelujah 'lujah 'lujah I don't wanna die too young too young too young I've been grindin' way too long too long too long",01,001),
+(0012,"Deja Vu",3.56," Cause I can't take it no more
+No you ain't like them bitches
+Tell them hoes adios
+And you can drop your panties
+Leave them shits at the door
+Dior falls on the floor
+I swear we been here before
+
+I'm tryna see you from my own perspective
+You all in my section tryna come to my session
+We runnin' a pressure, you know that we flexin'
+We bought all the bottles, we came with the models
+Girl this a confession, I'm not like your exes
+I came in from Texas, and now that we textin'
+You can fly in whenever, now you undressin'
+Panties on the dresser, your hair gettin' messed up
+The feelin' we catchin', my love is a blessin'
+Made love in that Lexus, made love in that Lexus
+I know you remember
+
+Tell me is that deja vu?
+Cause you want me and I want you
+Tell me is that deja vu?
+Cause baby it ain't nothing new, no
+Tell me is that deja vu?
+Cause you want me and I want you
+Tell me is that deja vu?
+Cause baby this ain't nothing new, no
+
+ Oh you actin' reckless
+I told you that I need affection
+So let me point you in the right direction
+It's so important that you get the message
+Yeah, I gotta say, gotta say somethin' to you, you, you
+I'm on a roll, I'm gonna roll out in that new, new, new
+If you wanna do what I wanna do
+Well uhm-uhm-uhm
+Well I guess that's just deja vu
+
+Tell me is that deja vu?
+Cause you want me and I want you
+Tell me is that deja vu?
+Cause baby it ain't nothing new, no
+Tell me is that deja vu?
+Cause you want me and I want you
+Tell me is that deja vu?
+Cause baby it is ain't nothing new, no
+
+Tell me if you want it baby
+'Cause I know I can drive you crazy
+I just wanted you to know now
+Oh-oh, oh-ohhh
+Show up in that new Mercedes, you already know I'm faded
+Girl I've been thinkin' about you lately
+Oh-oh, oh-ohhh
+
+Tell me is that deja vu?
+Cause you want me and I want you
+Tell me is that deja vu?
+Cause baby it ain't nothing new, no
+Tell me is that deja vu?
+Cause you want me and I want you
+Tell me is that deja vu?
+Cause baby it is ain't nothing new, no
+
+Cause I can't take it no more
+No you ain't like them bitches
+Tell them hoes adios
+And you can drop your panties
+Leave them shits at the door
+Dior falls on the floor
+I swear we been here before",01,001),
+(0013,"Lose Yourself",5.24," Look, if you had, one shot, or one opportunity
+To seize everything you ever wanted. In one moment
+Would you capture it, or just let it slip?
+Yo
+His palms are sweaty, knees weak, arms are heavy
+There's vomit on his sweater already, mom's spaghetti
+He's nervous, but on the surface he looks calm and ready to drop bombs,
+But he keeps on forgetting what he wrote down,
+The whole crowd goes so loud
+He opens his mouth, but the words won't come out
+He's choking how, everybody's joking now
+The clock's run out, time's up, over, blaow!
+Snap back to reality. Oh, there goes gravity
+Oh, there goes Rabbit, he choked
+He's so mad, but he won't give up that
+Easy, no
+He won't have it, he knows his whole back's to these ropes
+It don't matter, he's dope
+He knows that but he's broke
+He's so sad that he knows
+When he goes back to his mobile home, that's when it's
+Back to the lab again, yo
+This whole rhapsody
+He better go capture this moment and hope it don't pass him
+You better lose yourself in the music, the moment
+You own it, you better never let it go (go)
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime (yo)
+You better lose yourself in the music, the moment
+You own it, you better never let it go (go)
+You only get one shot, do not miss your chance to blow
+This opportunity comes once in a lifetime (yo)
+The soul's escaping, through this hole that is gaping
+This world is mine for the taking
+Make me king, as we move toward a new world order
+A normal life is boring, but superstardom's close to postmortem
+It only grows harder, homie grows hotter
+He blows. It's all over. These hoes is all on him
+Coast to coast shows, he's known as the globetrotter
+Lonely roads, God only knows
+He's grown farther from home, he's no father
+He goes home and barely knows his own daughter
+But hold your nose 'cause here goes the cold water
+His hoes don't want him no more, he's cold product
+They moved on to the next schmoe who flows
+He nose dove and sold nada
+So the soap opera is told and unfolds
+I suppose it's old partner, but the beat goes on
+Da da dum da dum da da da da
+No more games, I'mma change what you call rage
+Tear this motherfucking roof off like two dogs caged
+I was playing in the beginning, the mood all changed
+I've been chewed up and spit out and booed off stage
+But I kept rhyming and stepped right into the next cypher
+Best believe somebody's paying the Pied Piper
+All the pain inside amplified by the
+Fact that I can't get by with my 9 to 5
+And I can't provide the right type of life for my family
+'Cause man, these goddamn food stamps don't buy diapers
+And it's no movie, there's no Mekhi Phifer, this is my life
+And these times are so hard, and it's getting even harder
+Trying to feed and water my seed, plus
+Teeter totter caught up between being a father and a primadonna
+Baby, mama drama's screaming on her
+Too much for me to wanna
+Stay in one spot, another day of monotony's gotten me
+To the point, I'm like a snail
+I've got to formulate a plot or I end up in jail or shot
+Success is my only motherfucking option, failure's not
+Mom, I love you, but this trailer's got to go
+I cannot grow old in Salem's lot
+So here I go it's my shot.
+Feet, fail me not
+This may be the only opportunity that I got ",02,005),
+(0014,"Mockingbird",4.19," Yeah
+I know sometimes things may not always make sense to you right now
+But hey, what daddy always tell you?
+Straighten up little soldier
+Stiffen up that upper lip
+What you crying about?
+You got me.
+
+Hailie, I know you miss your mom, and I know you miss your dad
+When I'm gone but I'm trying to give you the life that I never had
+I can see you're sad, even when you smile, even when you laugh
+I can see it in your eyes, deep inside you want to cry
+'Cause you're scared, I ain't there?
+Daddy's with you in your prayers
+No more crying, wipe them tears
+Daddy's here, no more nightmares
+We gon' pull together through it, we gon' do it
+Lainie Uncle's crazy, ain't he?
+Yeah, but he loves you girl and you better know it
+We're all we got in this world
+When it spins, when it swirls
+When it whirls, when it twirls
+Two little beautiful girls
+Lookin' puzzled, in a daze
+I know it's confusing you
+Daddy's always on the move, mamma's always on the news
+I try to keep you sheltered from it but somehow it seems
+The harder that I try to do that, the more it backfires on me
+All the things growing up as daddy, that he had to see
+Daddy don't want you to see but you see just as much as he did
+We did not plan it to be this way, your mother and me
+But things have got so bad between us
+I don't see us ever being together ever again
+Like we used to be when we was teenagers
+But then of course everything always happens for a reason
+I guess it was never meant to be
+But it's just something we have no control over and that's what destiny is
+But no more worries, rest your head and go to sleep
+Maybe one day we'll wake up and this will all just be a dream
+
+Now hush little baby, don't you cry
+Everything's gonna be alright
+Stiffen that upper lip up, little lady, I told ya
+Daddy's here to hold ya through the night
+I know mommy's not here right now and we don't know why
+We feel how we feel inside
+It may seem a little crazy, pretty baby
+But I promise mama's gon' be alright
+
+(Ha)
+It's funny
+I remember back one year when daddy had no money
+Mommy wrapped the Christmas presents up
+And stuck 'em under the tree and said some of 'em were from me
+'Cause daddy couldn't buy 'em
+I'll never forget that Christmas I sat up the whole night crying
+'Cause daddy felt like a bum, see daddy had a job
+But his job was to keep the food on the table for you and mom
+And at the time every house that we lived in
+Either kept getting broken into and robbed
+Or shot up on the block and your mom was saving money for you in a jar
+Tryna start a piggy bank for you so you could go to college
+Almost had a thousand dollars 'til someone broke in and stole it
+And I know it hurt so bad it broke your mamma's heart
+And it seemed like everything was just startin' to fall apart
+Mom and dad was arguin' a lot so momma moved back
+On the Chalmers in the flat one bedroom apartment
+And dad moved back to the other side of 8 Mile on Novara
+And that's when daddy went to California with his CD and met Dr. Dre
+And flew you and momma out to see me
+But daddy had to work, you and momma had to leave me
+Then you started seeing daddy on the T.V. and momma didn't like it
+And you and Lainnie were too young to understand it
+Papa was a rollin' stone, momma developed a habit
+And it all happened too fast for either one of us to grab it
+I'm just sorry you were there and had to witness it first hand
+'Cause all I ever wanted to do was just make you proud
+Now I'm sitting in this empty house, just reminiscing
+Lookin' at your baby pictures, it just trips me out
+To see how much you both have grown, it's almost like you're sisters now
+Wow, I guess you pretty much are and daddy's still here
+Lainnie I'm talkin' to you too, daddy's still here
+I like the sound of that, yeah
+It's got a ring to it don't it?
+Shh, mama's only gone for the moment
+
+And if you ask me to
+Daddy's gonna buy you a mockingbird
+I'mma give you the world
+I'mma buy a diamond ring for you
+I'mma sing for you
+I'll do anything for you to see you smile
+And if that mockingbird don't sing and that ring don't shine
+I'mma break that birdie's neck
+I'll go back to the jeweler who sold it to ya
+And make him eat every carat don't fuck with dad (ha ha)",02,005),
+(0015,"Not Afraid",4.19," I'm not afraid (I'm not afraid)
+To take a stand (to take a stand)
+Everybody (everybody)
+Come take my hand (come take my hand)
+We'll walk this road together, through the storm
+Whatever weather, cold or warm
+Just letting you know that you're not alone
+Holler if you feel like you've been down the same road (same road)
+
+Yeah, it's been a ride
+I guess I had to, go to that place, to get to this one
+Now some of you, might still be in that place
+If you're trying to get out, just follow me
+I'll get you there
+
+You can try and read my lyrics off of this paper before I lay 'em
+But you won't take the sting out these words before I say 'em
+Cause ain't no way I'ma let you stop me from causing mayhem
+When I say I'ma do something I do it,
+I don't give a damn what you think,
+I'm doing this for me, so fuck the world
+Feed it beans, it's gassed up, if it thinks it's stopping me
+I'ma be what I set out to be, without a doubt undoubtedly
+And all those who look down on me I'm tearing down your balcony
+No ifs, ands or buts, don't try to ask him why or how can he
+From Infinite down to the last Relapse album
+He's still shitting, whether he's on salary paid hourly
+Until he bows out or he shits his bowels out of him
+Whichever comes first, for better or worse
+He's married to the game, like a fuck you for Christmas
+His gift is a curse, forget the Earth, he's got the urge
+To pull his dick from the dirt, and fuck the whole universe
+
+Okay quit playing with the scissors and shit, and cut the crap
+I shouldn't have to rhyme these words in the rhythm for you to know it's a rap
+You said you was king, you lied through your teeth, for that
+Fuck your fillings, instead of getting crowned you're getting capped
+And to the fans, I'll never let you down again, I'm back
+I promise to never go back on that promise, in fact
+Let's be honest, that last Relapse CD was ehhh
+Perhaps I ran them accents into the ground
+Relax, I ain't going back to that now
+All I'm trying to say is get back, click-clack, blow
+Cause I ain't playing around
+It's a game called circle and I don't know how, I'm way too up to back down
+But I think I'm still trying to figure this crap out
+Thought I had it mapped out but I guess I didn't, this fucking black cloud
+Still follows me around but it's time to exorcise these demons
+These motherfuckers are doing jumping jacks now!
+And I just can't keep living this way
+So starting today, I'm breaking out of this cage
+I'm standing up, I'ma face my demons
+I'm manning up, I'ma hold my ground
+I've had enough, now I'm so fed up
+Time to put my life back together right now! (now)
+
+It was my decision to get clean, I did it for me
+Admittedly, I probably did it subliminally
+For you, so I could come back a brand new me you helped see me through
+And don't even realize what you did, 'cause believe me you
+I been through the ringer, but they could do little to the middle finger
+I think I got a tear in my eye, I feel like the king of
+My world, haters can make like bees with no stingers
+And drop dead, no more beef lingers
+No more drama from now on, I promise
+To focus solely on handling my responsibilities as a father
+So I solemnly swear to always treat this roof, like my daughters
+And raise it, you couldn't lift a single shingle on it!
+Cause the way I feel, I'm strong enough to go to the club
+Or the corner pub, and lift the whole liquor counter up
+Cause I'm raising the bar
+I'd shoot for the moon but I'm too busy gazing at stars
+I feel amazing and I'm...",02,005),
+(0016,"Rap God",6.10,"Look, I was gonna go easy on you not to hurt your feelings
+But I'm only going to get this one chance
+(Six minutes, six minutes)
+Something's wrong, I can feel it
+(Six minutes, six minutes, Slim Shady, you're on)
+Just a feeling I've got
+Like something's about to happen
+But I don't know what
+If that means, what I think it means, we're in trouble
+Big trouble. And if he is as bananas as you say
+I'm not taking any chances
+You were just what the doctor ordered
+
+I'm beginning to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+Now who thinks their arms are long enough to slap box, slap box?
+They said I rap like a robot, so call me rap-bot
+
+But for me to rap like a computer must be in my genes
+I got a laptop in my back pocket
+My pen'll go off when I half-cock it
+Got a fat knot from that rap profit
+Made a living and a killing off it
+Ever since Bill Clinton was still in office
+With Monica Lewinski feeling on his nutsack
+I'm an MC still as honest
+But as rude and as indecent as all hell
+Syllables, skill-a-holic (Kill 'em all with)
+This flippity, dippity-hippity hip-hop
+You don't really wanna get into a pissing match
+With this rappity-rap
+Packing a mack in the back of the Ac
+backpack rap, crap, yap-yap, yackety-yack
+and at the exact same time
+I attempt these lyrical acrobat stunts while I'm practicing that
+I'll still be able to break a motherfuckin' table
+Over the back of a couple of faggots and crack it in half
+Only realized it was ironic
+I was signed to Aftermath after the fact
+How could I not blow? All I do is drop F bombs
+Feel my wrath of attack
+Rappers are having a rough time period
+Here's a Maxi-Pad
+It's actually disastrously bad
+For the wack while I'm masterfully constructing this masterpiece yeah
+
+'Cause I'm beginning to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+Now who thinks their arms are long enough to slap box, slap box?
+Let me show you maintaining this shit ain't that hard, that hard
+
+Everybody want the key and the secret to rap
+Immortality like I have got
+Well, to be truthful the blueprint's
+Simply rage and youthful exuberance
+Everybody loves to root for a nuisance
+Hit the earth like an asteroid
+and did nothing but shoot for the moon since (PPEEYOOM)
+MC's get taken to school with this music
+'Cause I use it as a vehicle to 'bus the rhyme'
+Now I lead a New School full of students
+Me? Me, I'm a product of Rakim
+Lakim Shabazz, 2Pac, N-W-A., Cube, hey, Doc, Ren
+Yella, Eazy, thank you, they got Slim
+Inspired enough to one day grow up
+Blow up and being in a position
+To meet Run-D.M.C. and induct them
+Into the motherfuckin' Rock n'
+Roll Hall of Fame even though I walk in the church
+And burst in a ball of flames
+Only Hall of Fame I'll be inducted in is the alcohol of fame
+On the wall of shame
+You fags think it's all a game
+'Til I walk a flock of flames
+Off a plank and
+Tell me what in the fuck are you thinking?
+Little gay looking boy
+So gay I can barely say it with a 'straight' face looking boy
+You're witnessing a mass-occur like you're watching a church gathering
+And take place looking boy
+Oy vey, that boy's gay
+That's all they say looking boy
+You get a thumbs up, pat on the back
+And a way to go from your label every day looking boy
+Hey, looking boy, what d'you say looking boy?
+I get a hell yeah from Dre looking boy
+I'mma work for everything I have
+Never asked nobody for shit
+Git out my face looking boy
+Basically boy you're never gonna be capable
+of keeping up with the same pace looking boy, 'cause
+
+I'm beginning to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+The way I'm racing around the track, call me Nascar, Nascar
+Dale Earnhardt of the trailer park, the White Trash God
+Kneel before General Zod this planet's Krypton, no Asgard, Asgard
+
+So you'll be Thor and I'll be Odin
+You rodent, I'm omnipotent
+Let off then I'm reloading
+Immediately with these bombs I'm totin'
+And I should not be woken
+I'm the walking dead
+But I'm just a talking head, a zombie floating
+But I got your mom deep throating
+I'm out my Ramen Noodle
+We have nothing in common, poodle
+I'm a Doberman, pinch yourself
+In the arm and pay homage, pupil
+It's me
+My honesty's brutal
+But it's honestly futile if I don't utilize
+What I do though for good
+At least once in a while so I wanna make sure
+Somewhere in this chicken scratch I scribble and doodle
+Enough rhymes to
+Maybe try to help get some people through tough times
+But I gotta keep a few punchlines
+Just in case 'cause even you unsigned
+Rappers are hungry looking at me like it's lunchtime
+I know there was a time where once I
+Was king of the underground
+But I still rap like I'm on my Pharoahe Monch grind
+So I crunch rhymes
+But sometimes when you combine
+Appeal with the skin color of mine
+You get too big and here they come trying to
+Censor you like that one line I said
+On I'm Back from the Mathers LP
+One when I tried to say I'll take seven kids from Columbine
+Put 'em all in a line
+Add an AK-47, a revolver and a nine
+See if I get away with it now
+That I ain't as big as I was, but I'm
+Morphin' into an immortal coming through the portal
+You're stuck in a time warp from two thousand four though
+And I don't know what the fuck that you rhyme for
+You're pointless as Rapunzel
+With fucking cornrows
+You write normal, fuck being normal
+And I just bought a new ray gun from the future
+Just to come and shoot ya
+Like when Fabulous made Ray J mad
+'Cause Fab said he looked like a fag
+At Mayweather's pad singin' to a man
+While he play piano
+Man, oh man, that was the 24/7 special
+On the cable channel
+So Ray J went straight to radio station the very next day
+Hey, Fab, I'mma kill you
+Lyrics coming at you at supersonic speed, (JJ Fad)
+Uh, summa lumma dooma lumma you assuming I'm a human
+What I gotta do to get it through to you I'm superhuman
+Innovative and I'm made of rubber, so that anything you say is
+Ricochet in off a me and it'll glue to you
+And I'm devastating more than ever demonstrating
+How to give a motherfuckin' audience a feeling like it's levitating
+Never fading, and I know that haters are forever waiting
+For the day that they can say I fell off, they'll be celebrating
+'Cause I know the way to get 'em motivated
+I make elevating music
+You make elevator music
+Oh, he's too mainstream. 
+Well, that's what they do
+When they get jealous, they confuse it
+It's not hip hop, it's pop. 
+'Cause I found a hella way to fuse it
+With rock, shock rap with Doc
+Throw on Lose Yourself and make 'em lose it
+I don't know how to make songs like that
+I don't know what words to use
+Let me know when it occurs to you
+While I'm ripping any one of these verses that versus you
+It's curtains, I'm inadvertently hurtin' you
+How many verses I gotta murder to
+Prove that if you were half as nice,
+your songs you could sacrifice virgins to
+Unghh, school flunky, pill junky
+But look at the accolades these skills brung me
+Full of myself, but still hungry
+I bully myself 'cause I make me do what I put my mind to
+When I'm a million leagues above you
+Ill when I speak in tongues
+But it's still tongue-and-cheek, fuck you
+I'm drunk so Satan take the fucking wheel
+I'm asleep in the front seat
+Bumping Heavy D and the Boys
+Still chunky, but funky
+But in my head there's something
+I can feel tugging and struggling
+Angels fight with devils and
+Here's what they want from me
+They're asking me to eliminate some of the women hate
+But if you take into consideration the bitter hatred I had
+Then you may be a little patient and more sympathetic to the situation
+And understand the discrimination
+But fuck it
+Life's handing you lemons
+Make lemonade then
+But if I can't batter the women
+How the fuck am I supposed to bake them a cake then?
+Don't mistake him for Satan
+It's a fatal mistake if you think I need to be overseas
+And take a vacation to trip a broad
+And make her fall on her face and
+Don't be a retard, be a king?
+Think not
+Why be a king when you can be a God?
+",02,005),
+
+(0017,"Sugar ",5.02," I'm hurting, baby, I'm broken down
+I need your loving, loving, I need it now
+When I'm without you
+I'm something weak
+You got me begging
+Begging, I'm on my knees1
+I don't wanna be needing your love
+I just wanna be deep in your love
+And it's killing me when you're away
+Ooh, baby,
+'Cause I really don't care where you are
+I just wanna be there where you are
+And I gotta get one little taste
+Your sugar
+Yes, please
+Won't you come and put it down on me
+I'm right here, 'cause I need
+Little love and little sympathy
+Yeah you show me good loving
+Make it alright
+Need a little sweetness in my life
+Your sugar
+Yes, please
+Won't you come and put it down on me
+My broken pieces
+You pick them up
+Don't leave me hanging, hanging
+Come give me some
+When I'm without ya
+I'm so insecure
+You are the one thing
+The one thing, I'm living for
+I don't wanna be needing your love
+I just wanna be deep in your love
+And it's killing me when you're away
+Ooh, baby,
+'Cause I really don't care where you are
+I just wanna be there where you are
+And I gotta get one little taste
+Your sugar
+Yes, please
+Won't you come and put it down on me
+I'm right here, 'cause I need
+Little love and little sympathy
+Yeah you show me good loving
+Make it alright
+Need a little sweetness in my life
+Your sugar (your sugar)
+Yes, please (yes, please)
+Won't you come and put it down on me
+Yeah
+I want that red velvet
+I want that sugar sweet
+Don't let nobody touch it
+Unless that somebody's me
+I gotta be a man
+There ain't no other way
+'Cause girl you're hotter than southern California Bay
+I don't wanna play no games
+I don't gotta be afraid
+Don't give all that shy shit
+No make up on, that's my
+Sugar
+Yes, please
+Won't you come and put it down on me (down on me)
+Oh, right here (right here),
+'Cause I need (I need)
+Little love and little sympathy
+Yeah you show me good loving
+Make it alright
+Need a little sweetness in my life
+Your sugar (sugar)
+Yes, please (yes, please)
+Won't you come and put it down on me
+Your sugar
+Yes, please
+Won't you come and put it down on me
+I'm right here, 'cause I need
+Little love and little sympathy
+Yeah you show me good loving
+Make it alright
+Need a little sweetness in my life
+Your sugar
+Yes, please
+Won't you come and put it down on me
+(Down on me, down on me)",03,002),
+(0018," Don't Wanna Know",6.18," Oooh
+Oooh
+
+Living inside my head
+Pulling my strings
+Letting me think I'm in control
+
+Giving you all of my heart
+Was a good start
+But it turns out you want my soul
+
+I don't know nothing about that
+In fact I don't know nothing at all
+I'm tired of proving you right
+By doing everything so wrong
+So tell me what you really want
+'Cause I don't wanna be
+I don't wanna be alone
+
+Oooh
+Oooh
+
+Pushing me over the edge
+Can't forget those things you said
+Cut to the bone
+
+Go ahead, take your swing
+What did you think?
+I was just gonna roll over? Oh no
+
+I don't know nothing about that
+In fact I don't know nothing at all
+I'm tired of proving you right
+By doing everything so wrong
+Gotta tell me what you really want
+'Cause I don't wanna be
+Oh, I don't wanna be alone
+
+Oooh
+Oooh
+I don't wanna be
+
+I've put myself on the line
+I'm tired of wasting my time
+There's got to be a reason why
+She will not talk to me, no oh
+
+I don't know nothing about that
+In fact I don't know nothing at all
+So tired of proving you right
+By doing everything so wrong
+
+I don't know nothing about that
+In fact I don't know nothing at all
+So tired of proving you right
+By doing everything so wrong
+
+Tell me what you really want
+I don't wanna be
+I don't wanna be alone
+
+Oooh
+Oooh",03,002),
+(0019,"animals",4.41," Baby, I'm preying on you tonight
+Hunt you down eat you alive
+Just like animals, animals, like animals-mals
+
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm
+
+So what you trying to do to me
+It's like we can't stop we're enemies
+But we get along when I'm inside you
+You're like a drug that's killing me
+I cut you out entirely
+But I get so high when I'm inside you
+
+Yeah, you can start over, you can run free
+You can find other fish in the sea
+You can pretend it's meant to be
+But you can't stay away from me
+I can still hear you making that sound
+Taking me down, rolling on the ground
+You can pretend that it was me
+But no
+
+Baby, I'm preying on you tonight
+Hunt you down eat you alive
+Just like animals, animals, like animals-mals
+
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm
+
+So if I run it's not enough
+You're still in my head forever stuck
+So you can do what you wanna do
+I love your lies, I'll eat 'em up
+But don't deny the animal
+That comes alive when I'm inside you
+
+Yeah, you can start over you can run free
+You can find other fish in the sea
+You can pretend it's meant to be
+But you can't stay away from me
+I can still hear you making that sound
+Taking me down rolling on the ground
+You can pretend that it was me
+But no
+
+Baby, I'm preying on you tonight
+Hunt you down eat you alive
+Just like animals, animals, like animals-mals
+
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm
+
+Don't tell no lie-lie-lie-lie
+You can't deny-ny-ny-ny
+The beast inside-side-side-side
+Yeah, yeah, yeah
+
+No, girl, don't lie-lie-lie-lie
+You can't deny-ny-ny-ny
+The beast inside-side-side-side
+Yeah, yeah, yeah
+
+Yo...
+Whoa...
+Whoa...
+Just like animals, animals, like animals-mals
+Just like animals (yeah...), animals (yeah...), like animals-mals (yeah...)
+Ow
+
+Baby, I'm preying on you tonight
+Hunt you down eat you alive
+Just like animals, animals, like animals-mals
+
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm
+
+Don't tell no lie-lie-lie-lie
+You can't deny-ny-ny-ny
+That beast inside-side-side-side
+Yeah, yeah, yeah
+
+No, girl, don't lie-lie-lie-lie
+You can't deny-ny-ny-ny
+That beast inside-side-side-side
+Yeah, yeah, yeah",03,002),
+(0020,"One More Night",3.44," You and I go hard at each other like we're going to war.
+You and I go rough, we keep throwing things and slamming the door.
+You and I get so damn dysfunctional, we stopped keeping score.
+You and I get sick, yeah, I know that we can't do this no more.
+
+Yeah, but baby there you go again, there you go again, making me love you.
+Yeah, I stopped using my head, using my head, let it all go.
+Got you stuck on my body, on my body, like a tattoo.
+And now I'm feeling stupid, feeling stupid, crawling back to you.
+
+So I cross my heart and I hope to die
+That I'll only stay with you one more night
+And I know I said it a million times
+But I'll only stay with you one more night
+
+Try to tell you no but my body keeps on telling you yes.
+Try to tell you stop, but your lipstick got me so out of breath.
+I'll be waking up in the morning, probably hating myself.
+And I'll be waking up, feeling satisfied but guilty as hell.
+
+Yeah, but baby there you go again, there you go again, making me love you.
+(Making me love you)
+Yeah, I stopped using my head, using my head, let it all go.
+(I let it all go)
+Got you stuck on my body, on my body, like a tattoo.
+(Like a tattoo, yeah)
+And now I'm feeling stupid, feeling stupid, crawling back to you.
+
+So I cross my heart and I hope to die
+(Yeah)
+That I'll only stay with you one more night
+(Oh)
+And I know I said it a million times
+(Yeah)
+But I'll only stay with you one more night
+(Yeah)
+
+Yeah, baby, give me one more night
+Yeah, baby, give me one more night (whoa, yeah)
+Yeah, baby, give me one more night (oh, yeah, yeah)
+
+Yeah, but baby there you go again, there you go again making me love you.
+Yeah, I stopped using my head, using my head, let it all go.
+Got you stuck on my body, on my body like a tattoo.
+Yeah, yeah, yeah, yeah
+
+So I cross my heart and I hope to die
+(Oh oh oh oh, oh oh oh oh)
+That I'll only stay with you one more night
+(Oh oh oh oh oh oh)
+And I know I said it a million times
+(Oh, I said it a million times)
+But I'll only stay with you one more night
+(Yeah, baby give me one more night)
+
+So I cross my heart and I hope to die (yeah, yeah)
+That I'll only stay with you one more night (yeah, yeah)
+And I know I said it a million times (yeah, yeah)
+But I'll only stay with you one more night (yeah, yeah)
+
+I don't know, whatever.",03,002)
