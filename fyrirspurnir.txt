@@ -1,0 +1,80 @@
+a) SELECT diskur.nafn,lag.nafn
+ FROM diskur
+ JOIN lag
+ ON diskur.lag_id = lag.id
+ WHERE diskur.nafn = "Stoney"
+
+b) SELECT lag.nafn as lag, flytjandi.nafn
+ FROM lag
+ JOIN flytjandi 
+ ON lag.flytjandi_id = lag.id
+ WHERE flytjandi.id = 1
+
+c) SELECT lag.nafn, tegund.nafn
+ FROM lag
+ JOIN tegund
+ ON lag.tegund_id = tegund.id
+ WHERE tegund.nafn = "rap"
+
+d) select `nafn`
+ from lag
+ where `lengd` > 5.00
+
+e) SELECT nafn as "Diskur", CONVERT( utgafudagur, CHAR( 4 ) )
+ FROM diskur
+ WHERE utgafudagur > 20100000
+f) SELECT diskur.nafn, utgefandi.nafn, CONVERT( diskur.utgafudagur, CHAR( 4 ) )
+ FROM diskur
+ JOIN utgefandi
+ ON diskur.utgefandi_id = utgefandi.id
+ GROUP BY utgefandi.nafn
+ ORDER BY utgefandi.nafn
+
+g)
+
+h)
+
+i) SELECT utgefandi.nafn, count(diskur.nafn)
+ FROM diskur
+ JOIN utgefandi
+ ON utgefandi.id = diskur.utgefandi_id
+ GROUP BY utgefandi.nafn
+ ORDER BY count(diskur.nafn) ASC
+ LIMIT 1
+
+j) SELECT diskur.nafn, utgefandi.nafn, diskur.utgafudagur
+ FROM diskur
+ JOIN lag
+ ON diskur.lag_id = lag.id
+ JOIN utgefandi
+ ON utgefandi.id = diskur.utgefandi_id
+ WHERE diskur.utgafudagur > 19980000 AND diskur.utgafudagur < 20170000
+ GROUP BY utgefandi.nafn
+
+k) select count(nafn)
+ from lag
+ where nafn like "A%"
+ select count(nafn)
+ from lag
+ where nafn like "%S%"
+
+l) SELECT `nafn`, `faedingardagur`
+FROM flytjandi`
+
+m) select avg(lengd)
+ from lag
+
+n) SELECT flytjandi.nafn as "Flytjandi", count(lag.nafn)
+ FROM flytjandi
+ JOIN lag
+ ON flytjandi.id = lag.flytjandi_id
+ GROUP BY flytjandi.nafn
+ HAVING count(lag.nafn) > 4
+
+o) SELECT lag.nafn, flytjandi.nafn, 2017-flytjandi.faedingardagur
+ FROM lag
+ JOIN flytjandi
+ ON lag.flytjandi_id = flytjandi.id
+ GROUP BY lag.nafn
+ ORDER BY flytjandi.faedingardagur
+ LIMIT 4
