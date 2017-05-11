@@ -1,0 +1,116 @@
+﻿CREATE DATABASE 0701002230_lokaverkefni
+
+CREATE TABLE flokkur
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL
+);
+
+ CREATE TABLE flytjandi
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL,
+    faedingardagur date,
+    danardagur VARCHAR(15),
+    flokkur_id INTEGER,
+    FOREIGN KEY (flokkur_id) REFERENCES flokkur(id)
+);
+
+CREATE TABLE hofundur
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL
+);
+
+CREATE TABLE lag
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL,
+    lengd DOUBLE,
+    texti VARCHAR(9999),
+    flytjandi_id INTEGER,
+    hofundur_id INTEGER,
+    FOREIGN KEY (flytjandi_id) REFERENCES flytjandi(id),
+    FOREIGN KEY (hofundur_id) REFERENCES hofundur(id)
+);
+
+CREATE TABLE tegund
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL
+);
+
+CREATE TABLE utgefandi
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL
+);
+
+CREATE TABLE diskur
+(
+    id INTEGER PRIMARY KEY,
+    nafn VARCHAR(45) NOT NULL,
+    utgafudagur date,
+    lag_id INTEGER,
+    utgefandi_id INTEGER,
+    tegund_id INTEGER,
+    FOREIGN KEY (lag_id) REFERENCES lag(id),
+    FOREIGN KEY (utgefandi_id) REFERENCES utgefandi(id),
+    FOREIGN KEY (tegund_id) REFERENCES tegund(id)
+);
+
+INSERT INTO 
+	`flokkur`(`id`, `nafn`) 
+VALUES 
+	(1,"sóló"),
+	(2,"Hljómsveit"),
+	(3,"kór")
+	
+INSERT INTO 
+	`flytjandi`(`id`, `nafn`, `faedingardagur`, `danardagur`, `flokkur_id`) 
+VALUES
+	(01,"Post Malone","1995-07-04","Ekki látinn",1),
+	(02,"Eminem","1972-10-17","Ekki látinn",1),
+	(03,"Maroon 5","1979-03-18","Ekki látnir",2),
+	(04,"Michael Jackson","1958-08-29","2009-06-25",1),
+	(05,"Aron Can","1999-11-18","Ekki látinn",1)
+	
+INSERT INTO 
+	`hofundur`(`id`, `nafn`) 
+VALUES
+	(001,"Post Malone"),
+	(002,"Adam Levine"),
+	(003,"Aron Can"),
+	(004,"Michael Jackson"),
+	(005,"Eminem")
+	
+
+
+INSERT INTO
+	`tegund`(`id`, `nafn`) 
+VALUES 
+	(00001,"rap"),
+	(00002,"pop"),
+	(00003,"jazz"),
+	(00004,"rokk"),
+	(00005,"diskó")
+
+INSERT INTO
+	`utgefandi`(`id`, `nafn`)
+VALUES
+	(000001,"Aron Can"),
+	(000002,"Eminem"),
+	(000003,"Adam Levine"),
+	(000004,"Post Malone"),
+	(000005,"Michael Jackson")
+	
+INSERT INTO
+	`diskur`(`id`, `nafn`, `utgafudagur`, `lag_id`, `utgefandi_id`, `tegund_id`)
+VALUES
+	(0000001,"Í Nótt","2017-04-27",0005,000001,00001),
+	(0000002,"Stoney","2016-05-13",0009,000004,00001),
+	(0000003,"V","2015-05-15",0019,000003,00002),
+	(0000004,"Recovery","2010-01-01",0015,000002,00001),
+	(0000005,"Thriller","1982-11-30",0002,000005,00002),
+	(0000006,"Curtain Call","2005-12-6",0013,000002,00001),
+	(0000007,"Overexposed","2012-01-01",0020,000003,00002)
